@@ -1,4 +1,4 @@
-# Hacking Jenkins using Shodan API 
+# Hacking Jenkins using Shodan API
 
 ## Requirements:
 0. Works on any platform
