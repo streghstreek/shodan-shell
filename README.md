@@ -20,7 +20,7 @@ I have created 2 scripts for hacking jenkins in much easier way.
 
 [![asciicast](https://asciinema.org/a/170411.png)](https://asciinema.org/a/170411)
 
-## Screenshots
+## Screenshots 
 
 ### Script 1 
 
