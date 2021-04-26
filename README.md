@@ -22,7 +22,7 @@ I have created 2 scripts for hacking jenkins in much easier way.
 
 ## Screenshots
 
-### Script 1
+### Script 1 
 
 ![Script 1](https://image.prntscr.com/image/pa_Z62uWQh_5W-k5BV0enQ.png)
 
