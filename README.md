@@ -8,7 +8,7 @@
   
 ## Usage      
    
-I have created 2 scripts for hacking jenkins in much easier way.
+I have created 2 scripts for hacking jenkins in much easier way. 
  
 ### Hacking jenkins involves 2 steps:
 1. Execute **shodan.php** to get the list of all vulnerable jenkins URLs and on which user the jenkins is running 
