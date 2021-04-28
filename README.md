@@ -3,7 +3,7 @@
 ## Requirements: 
 0. Works on any platform
 1. PHP
-2. Shodan API Key 
+2. Shodan API Key  
 3. PHP Curl  
   
 ## Usage      
